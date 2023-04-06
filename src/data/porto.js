@@ -21,7 +21,7 @@ export default [
   },
   {
     title: "Azzamhfa Portfolio",
-    imgUrl: { port3 },
+    imgUrl: port3,
     stack: ["ReactJS", "Tailwind CSS"],
     link: "",
   },
