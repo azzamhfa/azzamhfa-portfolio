@@ -1,10 +1,10 @@
-import { port1,port2 } from "../assets"
+import { port1,port2, port3 } from "../assets"
 
 export default [
     {
         title: 'Company Website Template',
         imgUrl: port1,
-        stack: ['React', 'Tailwind CSS'],
+        stack: ['ReactJS', 'Tailwind CSS'],
         link: ""
     },
     {
@@ -17,6 +17,12 @@ export default [
         title: 'Analysis of Metaverse based on Youtube Comments',
         imgUrl: '',
         stack: ['Spreadsheet', 'Python'],
+        link: ""
+    },
+    {
+        title: 'Azzamhfa Portfolio',
+        imgUrl: {port3},
+        stack: ['ReactJS', 'Tailwind CSS'],
         link: ""
     }
 ]
