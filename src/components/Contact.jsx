@@ -4,7 +4,7 @@ import Title from "./Title";
 
 const Contact = () => {
   return (
-    <div className="flex flex-col mb-10 mx-auto ">
+    <div className="flex flex-col mb-10 mx-auto " id="contact">
       <div className="flex justify-evenly items-center flex-col ">
         <Title id="contact" children="Contact Me" />
         <div className="flex justify-center">
